@@ -1,1 +1,1 @@
-# vs2013opencvFaceRecognize
+# vs2013opencv3.0FaceRecognize
